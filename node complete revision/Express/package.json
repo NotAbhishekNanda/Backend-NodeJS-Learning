@@ -1,0 +1,14 @@
+{
+  "name": "abhisheknandacode",
+  "version": "1.0.0",
+  "description": "This is a folder for express learning ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Nanda",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}

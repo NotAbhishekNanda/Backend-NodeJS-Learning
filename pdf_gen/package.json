@@ -1,0 +1,15 @@
+{
+  "name": "pdf_gen",
+  "version": "1.0.0",
+  "description": "pdf generation from backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Nanda",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "pdfkit": "^0.13.0"
+  }
+}
